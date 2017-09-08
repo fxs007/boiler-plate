@@ -12,7 +12,7 @@ Python Boilerplate
 Python Boilerplate contains all the boilerplate you need to create a Python package.
 
 * Free software: MIT license
-* Documentation: (COMING SOON!) https://boiler-plate.readthedocs.org.
+* Documentation: (COMING SOON!) https://fxs007-boiler-plate.readthedocs.org.
 
 Features
 --------
