@@ -11,6 +11,8 @@ Python Boilerplate
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
 
+Created by 'cookiecutter https://github.com/tylerdave/cookiecutter-python-package'
+
 * Free software: MIT license
 * Documentation: (COMING SOON!) https://fxs007-boiler-plate.readthedocs.org.
 
