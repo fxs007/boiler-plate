@@ -2,8 +2,8 @@
 Python Boilerplate
 ===============================
 
-.. image:: https://img.shields.io/travis/fxs007/boiler-plate.svg
-        :target: https://travis-ci.org/fxs007/boiler-plate
+.. image:: https://img.shields.io/travis/xinsfang/boiler-plate.svg
+        :target: https://travis-ci.org/xinsfang/boiler-plate
 
 .. image:: https://img.shields.io/pypi/v/boiler-plate.svg
         :target: https://pypi.python.org/pypi/boiler-plate
